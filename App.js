@@ -1,3 +1,4 @@
+// react movie gallery by eyob-12
 import './App.css';
 import { useState } from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
